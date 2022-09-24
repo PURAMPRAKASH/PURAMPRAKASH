@@ -1,22 +1,49 @@
-#include <iostream> 
-#include <cctype>
-using namespace std; 
+Day-1 programs
+LCM and GCD.cpp
+Duplicate.cpp
+Eligible for voting.cpp
+Factors of a numbers
+Largest numbers.cpp
+Palindrome or not.cpp
+Perfect number.cpp
+Reverse loop.cpp
+Pattern.cpp
+Greatest three numbers.cpp
 
-int main(){
-    int n,i=1,sum=0;
-    cout << "Enter a number: ";
-    cin >> n;
-       while(i<n){
-       if(n%i==0)
-       sum=sum+i;
-       i++; 
-}
- 
-if(sum==n)
-    cout << i << " is a perfect number\n"; 
-else
-    cout << i << " is not a perfect number\n";
-    system("pause"); 
+Day-2 programs
 
-return 0;
-}
+Arithmetic.cpp
+Class employee.cpp
+Dimensional array.cpp
+Electricity bill.cpp
+Employee.cpp
+Marks.cpp
+Maxofthree.cpp
+Octal.cpp
+Simple interest.cpp
+Swapping numbers.cpp
+Voting.cpp
+Areaofc,r,s,t.cpp
+
+Day-3
+
+Area of square.cpp
+Deposited.cpp
+Student database.cpp
+Piggy bank.cpp
+Prime number or not.cpp
+Rectangle.cpp
+Student class.cpp
+Vowels.cpp
+Salary of employee.cpp
+Accounts.cpp
+Area of rectangle.cpp
+Vowels or not.cpp
+
+Day-4
+
+Area of circle using pointer.cpp
+Integers using array.cpp
+Area of circle.cpp
+Sum integer in array.cpp
+
